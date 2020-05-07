@@ -1,0 +1,9 @@
+{
+  "name": "hyenaR_logo",
+  "author": "Oliver Hoener & Eve Davidian",
+  "license": "CC0",
+  "raster": "https://github.com/hyenaproject/hexstickers/raw/master/hyenaR/hyenaR_logo.png",
+  "vector": "https://github.com/hyenaproject/hexstickers/raw/master/hyenaR/hyenaR_logo.svg",
+  "description": "the official logo for the R package hyenaR",
+  "order_online_url": "to come"
+}
