@@ -29,7 +29,7 @@ Here are the guidelines adapted from https://github.com/maxogden/hexbin:
 - write a `.json` file with the metadata for your hexagon image using his template:
 ```json
 {
-  "name": "Awesome_logo",
+  "name": "Name_for_the_hexsticker",
   "author": "Jane Doe",
   "license": "CC0",
   "raster": "we will fill this for you",
