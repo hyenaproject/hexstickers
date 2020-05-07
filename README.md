@@ -42,10 +42,18 @@ Here are the guidelines adapted from https://github.com/maxogden/hexbin:
 - send us the image and the `.json` file by email or submit a pull request
 
 
+## Our official hexstickers
+
+<p align="center">
+  <img src="./hyenaR/hyenaR_logo.svg" alt="hyenaR" width="200" onerror="./hyenaR/hyenaR_logo.svg">
+</p>
 
 
+## Our unofficial hexstickers
 
-
-
+<p align="center">
+  <img src="./hyenaR/unofficial_alternatives/hyenaR_logo2.png" alt="hyenaR" width="200">
+  <img src="./hyenaR/unofficial_alternatives/hyenaR_logo3.png" alt="hyenaR" width="200">
+</p>
 
 
